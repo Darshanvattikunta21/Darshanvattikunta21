@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Vattikunta%20Darshan&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Student%20%7C%20Java%20Developer%20%7C%20Full-Stack%20Engineer&descAlignY=58&descSize=16&animation=fadeIn" />
+
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -14,7 +13,7 @@
 <img src="https://komarev.com/ghpvc/?username=vattikuntadarshan&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 &nbsp;
 <a href="https://github.com/vattikuntadarshan?tab=followers">
-  <img src="https://img.shields.io/github/followers/vattikuntadarshan?label=Followers&style=for-the-badge&color=0e75b6" />
+  <img src="https://img.shields.io/github/followers/Darshanvattikunta21?label=Followers&style=for-the-badge&color=0e75b6" />
 </a>
 
 </div>
