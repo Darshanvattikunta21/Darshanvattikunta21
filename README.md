@@ -12,7 +12,7 @@
 <!-- Profile Views & Followers -->
 <img src="https://komarev.com/ghpvc/?username=vattikuntadarshan&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 &nbsp;
-<a href="https://github.com/vattikuntadarshan?tab=followers">
+<a href="https://github.com/vattikuntadarshan21?tab=followers">
   <img src="https://img.shields.io/github/followers/Darshanvattikunta21?label=Followers&style=for-the-badge&color=0e75b6" />
 </a>
 
@@ -83,7 +83,7 @@ public class Darshan {
 ![DSA](https://img.shields.io/badge/DSA-00C7B7?style=for-the-badge&logo=thealgorithms&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-FF6B6B?style=for-the-badge&logo=java&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC-764ABC?style=for-the-badge&logo=spring&logoColor=white)
-![SOLID](https://img.shields.io/badge/SOLID%20Principles-0077B5?style=for-the-badge&logo=blueprint&logoColor=white)
+![SOLID Principles](https://img.shields.io/badge/SOLID%20Principles-0077B5?style=for-the-badge&logo=openjdk&logoColor=white)
 ![DBMS](https://img.shields.io/badge/DBMS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
@@ -206,7 +206,7 @@ public class Darshan {
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshanvattikunta@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vattikuntadarshan)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vattikuntadarshan)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vattikuntadarshan21)
 
 </div>
 
