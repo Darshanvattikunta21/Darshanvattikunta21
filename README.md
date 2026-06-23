@@ -11,7 +11,7 @@
 <img src="https://komarev.com/ghpvc/?username=Darshanvattikunta21&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 &nbsp;
 <a href="https://github.com/Darshanvattikunta21?tab=followers">
-  <img src="https://img.shields.io/github/followers/Darshanvattikunta21?label=Followers&style=for-the-badge&color=0e75b6" />
+  <img src="https://img.shields.io/github/followers/Darshanvattikunta21?label=Followers&style=for-the-badge&color=0e75b6&logo=github&cacheSeconds=3600" />
 </a>
 
 </div>
